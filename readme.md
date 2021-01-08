@@ -9,3 +9,5 @@ depois de feito o Commit
 Estamos alterando o arquivo novamente para ver o que acontece
 
 Nova alteração para testar o comando git diff# github_course
+
+mudanca para subir para o repositório remoto
